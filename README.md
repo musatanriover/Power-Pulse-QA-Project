@@ -34,9 +34,8 @@ PowerPulse is a web application that allows users to track their daily food inta
 
 ## 📄 Documentation
 
-- ✅ [Test Plan](#)  
-- 📑 [Test Report](#)  
-- 🐞 [Bug Reports](#)  
+- ✅ [Test Plan](#)
+- 📑 [Test Report](#)    
 
 ---
 
