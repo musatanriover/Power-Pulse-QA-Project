@@ -1,3 +1,4 @@
+#TR
 # PowerPulse - QA Final Projesi BugBusters Ekibi
 
 PowerPulse test projesi deposuna hoş geldiniz!  
@@ -105,6 +106,7 @@ Herhangi bir soru veya iş birliği için takım üyeleriyle iletişime geçebil
 
 ---
 
+#ENG
 # PowerPulse - QA Final Project by BugBusters Team
 
 Welcome to the **PowerPulse** testing project repository!  
