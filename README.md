@@ -105,6 +105,8 @@ PowerPulse, kullanıcıların günlük besin tüketimlerini ve çeşitli egzersi
 Herhangi bir soru veya iş birliği için takım üyeleriyle iletişime geçebilirsiniz!
 
 ---
+---
+---
 
 # ENG
 # PowerPulse - QA Final Project by BugBusters Team
