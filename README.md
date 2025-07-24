@@ -1,5 +1,5 @@
-# TR
-# PowerPulse - QA Final Projesi BugBusters Ekibi
+
+# (TR) PowerPulse - QA Final Projesi BugBusters Ekibi
 
 PowerPulse test projesi deposuna hoş geldiniz!  
 Bu proje, **Yazılım Test Uzmanlığı Kursu Final Projesi** kapsamında, **12–24 Haziran 2025** tarihleri arasında gerçekleştirilmiştir.
@@ -108,8 +108,8 @@ Herhangi bir soru veya iş birliği için takım üyeleriyle iletişime geçebil
 ---
 ---
 
-# ENG
-# PowerPulse - QA Final Project by BugBusters Team
+
+# (ENG) PowerPulse - QA Final Project by BugBusters Team
 
 Welcome to the **PowerPulse** testing project repository!  
 This project was conducted as part of the **Software Testing Specialization Course Final Project** between **June 12–24, 2025**.
